@@ -1,9 +1,42 @@
+@charset "UTF-8";
 /*regola di stile h1*/
 h1 {
     font-size: 24px;
     color: red;
-
+    margin-left: auto;
+;
 }
+
 h2 {
     color: yellow;
 }
+
+
+header {
+    margin: 60px;
+    border: dotted 5px red;
+    border-radius: 50%;
+    height: 400px;
+    width: 500px;
+
+}
+
+
+header {
+    background-image:url("4.png"),linear-gradient(blueviolet,azure)
+;
+}
+header {
+    display: block;
+
+}
+header {
+
+}
+header {
+    background-position-x: 800px;
+
+}
+
+
+
