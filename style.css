@@ -30,6 +30,23 @@ header {
 }
 
 header {
+    contain: inline-size;
+    color: blue;
+
     background-position-x: 800px;
 }
 
+body {
+
+    background: cornflowerblue;
+}
+
+* {
+    color: beige;
+
+}
+
+#header {
+    padding: 50px;
+
+}
