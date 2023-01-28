@@ -13,16 +13,13 @@ h2 {
     margin-left: 100px;
 }
 
-
 header {
     margin: 60px;
-    border-bottom: azure 5px red;
     border-radius: 50%;
     height: 500px;
     width: 500px;
 
 }
-
 
 header {
     background-image: url("4.png"), linear-gradient(blueviolet, azure);
@@ -30,13 +27,9 @@ header {
 
 header {
     display: block;
-
 }
 
 header {
     background-position-x: 800px;
-
 }
-
-
 
