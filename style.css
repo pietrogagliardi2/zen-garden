@@ -2,9 +2,10 @@
 /*regola di stile h1*/
 h1 {
     font-size: 24px;
-    color: red;
+    color: cadetblue;
     margin-left: 150px;
-;
+    border-radius: inherit;
+    padding: 75px;;
 }
 
 h2 {
@@ -15,25 +16,23 @@ h2 {
 
 header {
     margin: 60px;
-    border: dotted 5px red;
+    border-bottom: azure 5px red;
     border-radius: 50%;
-    height: 400px;
+    height: 500px;
     width: 500px;
 
 }
 
 
 header {
-    background-image:url("4.png"),linear-gradient(blueviolet,azure)
-;
+    background-image: url("4.png"), linear-gradient(blueviolet, azure);
 }
+
 header {
     display: block;
 
 }
-header {
 
-}
 header {
     background-position-x: 800px;
 
