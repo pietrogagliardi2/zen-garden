@@ -1,6 +1,5 @@
-body{
-    margin: unset;
-    padding: 50px;
-    border-top-left-radius: 20px;
-    border-bottom-color: blueviolet;
-}
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+@import "main.css";
