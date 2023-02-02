@@ -5,24 +5,27 @@ body{
     background-size: cover;
     font-family: "Apple Braille", serif;
     padding: 20px;
+    background-image: url("sfondo2.jpg");
+    display: block;
+
 }
 .page-wrapper{
     padding: 30px;
-    margin: 20px;
     max-width: 1080px;
-    background-image: url("sfondo2.jpg");
+    background-image: url("936378.jpg");
+    margin: 20px 20px 20px 30px;
 
 }
 section header h1 {
     font-size: 50px;
     color: red;
     text-shadow:3px 10px black;
-    position: center;
+    line-height: 100px;
 }
 h1,h2,h3,h4,h5,h6{
     color: chocolate;
-    border-bottom: solid 3px ;
-    font-size: 50px;
+    border-bottom: solid 2px ;
+    font-size: 37px;
     margin-inside: 30px;
 }
 
@@ -30,7 +33,7 @@ p{
     text-align: justify;
     margin-bottom: 2px;
     color: white;
-    font-size: 23px;
+    font-size: 18px;
 }
 a:hover{
     color: salmon;
