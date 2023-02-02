@@ -1,0 +1,20 @@
+body{
+    background-image: url("4.png");
+    width: 1200px;
+    height: 1200px;
+    background-size: cover;
+    font-family: "Apple Braille", serif;
+    padding: 20px;
+}
+.page-wrapper{
+    padding: 30px;
+    margin: 20px;
+}
+section header h1 {
+    font-size: 50px;
+    color: blueviolet;
+}
+h2,h3,h4,h5,h6{
+    display: block;
+    color: rosybrown;
+}
