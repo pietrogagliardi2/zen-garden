@@ -1,52 +1,6 @@
-@charset "UTF-8";
-/*regola di stile h1*/
-h1 {
-    font-size: 24px;
-    color: cadetblue;
-    margin-left: 150px;
-    border-radius: inherit;
-    padding: 75px;;
-}
-
-h2 {
-    color: yellow;
-    margin-left: 100px;
-}
-
-header {
-    margin: 60px;
-    border-radius: 50%;
-    height: 500px;
-    width: 500px;
-
-}
-
-header {
-    background-image: url("4.png"), linear-gradient(blueviolet, azure);
-}
-
-header {
-    display: block;
-}
-
-header {
-    contain: inline-size;
-    color: blue;
-
-    background-position-x: 800px;
-}
-
-body {
-
-    background: cornflowerblue;
-}
-
-* {
-    color: beige;
-
-}
-
-#header {
+body{
+    margin: unset;
     padding: 50px;
-
+    border-top-left-radius: 20px;
+    border-bottom-color: blueviolet;
 }
