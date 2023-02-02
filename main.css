@@ -10,23 +10,27 @@ body{
     padding: 30px;
     margin: 20px;
     max-width: 1080px;
-    color: rosybrown;
+    background-image: url("sfondo2.jpg");
 
 }
 section header h1 {
     font-size: 50px;
-    color: blueviolet;
-    background-position: center;
+    color: red;
+    text-shadow:3px 10px black;
+    position: center;
 }
 h1,h2,h3,h4,h5,h6{
-    color: rosybrown;
+    color: chocolate;
     border-bottom: solid 3px ;
-    font-size: 30px;
+    font-size: 50px;
+    margin-inside: 30px;
 }
 
 p{
     text-align: justify;
     margin-bottom: 2px;
+    color: white;
+    font-size: 23px;
 }
 a:hover{
     color: salmon;
