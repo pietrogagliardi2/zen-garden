@@ -1,5 +1,5 @@
 body{
-    background-image: url("4.png");
+    background-color: antiquewhite;
     width: 1200px;
     height: 1200px;
     background-size: cover;
@@ -9,12 +9,28 @@ body{
 .page-wrapper{
     padding: 30px;
     margin: 20px;
+    max-width: 1080px;
+    color: rosybrown;
+
 }
 section header h1 {
     font-size: 50px;
     color: blueviolet;
+    background-position: center;
 }
-h2,h3,h4,h5,h6{
-    display: block;
+h1,h2,h3,h4,h5,h6{
     color: rosybrown;
+    border-bottom: solid 3px ;
+    font-size: 30px;
 }
+
+p{
+    text-align: justify;
+    margin-bottom: 2px;
+}
+a:hover{
+    color: salmon;
+    text-decoration: none;
+}
+
+
